@@ -39,17 +39,21 @@
 
 ## 🚀 Projetos em destaque
 
-### 💱 Câmbio 360°
+
+## 🚀 Projetos em destaque
+
+### 💱 [Câmbio 360°](https://github.com/wildsonfelipe/Projeto_cambio360)
 Aplicação para consulta e análise de taxas de câmbio utilizando Python, APIs e Streamlit.
 
-### 📈 Projeto_Coinbase — Análise de Criptomoedas
-Projeto desenvolvido em Python com integração à API da Coinbase para coleta, processamento e análise de dados de criptomoedas.
+### 🪙 [Projeto_Coinbase — Análise de Criptomoedas](https://github.com/wildsonfelipe/Projeto_coinbase)
+Projeto de ETL que consome dados da API Coinbase, realiza tratamento com Python e Pandas e apresenta visualizações em Streamlit.
 
 ### 📊 SISDEPEN Goiás
 Projeto de ETL e análise de dados sobre escolaridade da população privada de liberdade no estado de Goiás.
 
 ### 🗄️ Banco de Dados
 Projetos de modelagem conceitual, lógica e física utilizando PostgreSQL.
+
 
 ---
 
