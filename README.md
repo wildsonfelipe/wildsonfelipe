@@ -1,5 +1,11 @@
 
 <div align="center">
+  <img src="./banner-github.png" alt="Wildson Felipe - Portfólio de Ciência de Dados" width="100%">
+</div>
+
+<br>
+
+<div align="center">
 
 # 👋 Olá, eu sou Wildson Felipe!
 
