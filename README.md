@@ -70,13 +70,3 @@ Projetos de modelagem conceitual, lógica e física utilizando PostgreSQL.
 Obrigado pela visita! 🚀
 
 </div>
-
----
-
-<div align="center">
-
-### 💡 "Aprender, praticar e evoluir todos os dias."
-
-Obrigado pela visita! 🚀
-
-</div>
