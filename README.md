@@ -42,7 +42,7 @@
 ### 💱 [Câmbio 360°](https://github.com/wildsonfelipe/Projeto_cambio360)
 Aplicação para consulta e análise de taxas de câmbio utilizando Python, APIs e Streamlit.
 
-###📈 [Projeto_Coinbase — Análise de Criptomoedas](https://github.com/wildsonfelipe/Projeto_coinbase)
+### 📈 [Projeto_Coinbase — Análise de Criptomoedas](https://github.com/wildsonfelipe/Projeto_coinbase)
 Projeto de ETL que consome dados da API Coinbase, realiza tratamento com Python e Pandas e apresenta visualizações em Streamlit.
 
 ### 📊 SISDEPEN Goiás
