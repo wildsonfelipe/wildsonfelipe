@@ -39,9 +39,6 @@
 
 ## 🚀 Projetos em destaque
 
-
-## 🚀 Projetos em destaque
-
 ### 💱 [Câmbio 360°](https://github.com/wildsonfelipe/Projeto_cambio360)
 Aplicação para consulta e análise de taxas de câmbio utilizando Python, APIs e Streamlit.
 
