@@ -45,6 +45,14 @@
 
 ## 🚀 Projetos em destaque
 
+
+### 🌎 [Sismo 360° — Monitoramento Global de Terremotos](https://github.com/wildsonfelipe/Projeto_Sismo360)
+
+Projeto de Ciência de Dados com Python, API USGS, Pandas, SQLite, Streamlit e Plotly. Inclui consultas sísmicas históricas, filtros por período e magnitude, mapa mundial interativo, indicadores, gráficos e exportação CSV.
+
+📄 [Visualizar Dashboard em PDF](https://github.com/wildsonfelipe/Projeto_Sismo360/blob/main/Dashboard_Visualiza%C3%A7%C3%A3o.pdf)
+
+
 ### 💱 [Câmbio 360°](https://github.com/wildsonfelipe/Projeto_cambio360)
 Aplicação para consulta e análise de taxas de câmbio utilizando Python, APIs e Streamlit.
 
